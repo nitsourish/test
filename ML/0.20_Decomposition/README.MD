@@ -1,2 +1,0 @@
-# 0.2 Data Decomoposition 
-Data and matrix decomposition algorithms, including among others PCA, NMF or ICA. Most of the algorithms of this module can be regarded as dimensionality reduction techniques.
