@@ -1,5 +1,0 @@
-# all files except keep
-*
-*.binary
-*.npy
-!.gitignore
